@@ -1,0 +1,27 @@
+# Credentials and secrets
+.env
+.env.*
+*.pem
+*.key
+.aws/
+config.local.json
+
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large datasets
+data/raw/*
+data/processed/*
+*.xlsx
+*.parquet
+
+# Logs
+*.log
+
+# Editor settings
+.vscode/

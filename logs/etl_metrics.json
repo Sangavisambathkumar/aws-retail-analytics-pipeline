@@ -1,0 +1,13 @@
+Original records: 541909
+{
+    "input_rows": 541909,
+    "duplicate_rows_removed": 5268,
+    "output_rows": 534129,
+    "total_rows_removed": 7780,
+    "raw_size_bytes": 46089583,
+    "parquet_size_bytes": 4363045,
+    "storage_reduction_pct": 90.53,
+    "gross_sales_gbp": 10642110.8,
+    "net_revenue_gbp": 9748131.07,
+    "etl_duration_seconds": 5.63
+}
